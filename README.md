@@ -1,69 +1,103 @@
-🚖 Ola Ride Data Analysis (July Dataset)
+<h1 align="center">🚖 Ola Ride Data Analysis</h1>
+<h3 align="center">End-to-End Data Analytics Project | July Dataset</h3>
 
-Transforming raw ride data into meaningful business insights using Python, SQL & Power BI
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C853&center=true&vCenter=true&lines=Python+%7C+SQL+%7C+Power+BI;Data+Cleaning+to+Dashboard;Real+World+Analytics+Project" />
+</p>
 
-📌 Project Overview
+---
 
-This project focuses on analyzing Ola ride data for July by following a complete end-to-end data analytics workflow — from raw data cleaning to building an interactive dashboard.
+## 📌 Project Overview  
 
-The goal was to extract actionable insights related to bookings, cancellations, revenue, and customer behavior.
+This project focuses on transforming **raw Ola ride data (July)** into a **complete business intelligence dashboard**.  
 
+The goal was simple:  
+➡️ Clean messy data  
+➡️ Extract meaningful insights  
+➡️ Build a decision-making dashboard  
 
-⚙️ Tech Stack
-🐍 Python (Pandas, NumPy)
-📊 Excel (Power Query)
-🧠 SQL (Data Analysis)
-📈 Power BI (Dashboard & Visualization)
-🔄 Workflow
+---
 
-🧹 1. Data Cleaning
-Handled missing values (NULLs)
-Removed duplicate records
-Fixed inconsistent data types
-Prepared structured dataset for analysis
+## ⚙️ Tech Stack  
 
-🧠 2. Data Analysis (SQL)
-Booking trends & ride distribution
-Cancellation analysis (Driver vs Customer)
-Revenue insights & payment patterns
-Customer behavior exploration
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerQuery-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-📊 3. Data Visualization (Power BI)
+---
 
-Created a multi-page dashboard including:
-Overall performance metrics
-Vehicle-type analysis
-Revenue breakdown
-Cancellation insights
-Ratings overview
+## 🔄 Workflow  
 
-📊 Key Insights
-📌 100K+ bookings analyzed
-📌 ~62% successful rides
-📌 ~28% cancellations (optimization opportunity)
-📌 Cash & UPI are dominant payment methods
-📌 Consistent demand with daily fluctuations
+### 🧹 Data Cleaning  
+- Removed NULL values  
+- Handled duplicates  
+- Fixed data types  
+- Cleaned dataset using **Python & Power Query**  
 
-💡 Learnings
-Data cleaning is the most critical step in analytics
-SQL helps in extracting real business insights
-Visualization is key to storytelling
-End-to-end workflow builds strong analytical thinking
+### 🧠 Data Analysis (SQL)  
+- Booking trends  
+- Cancellation patterns  
+- Revenue insights  
+- Customer vs Driver behavior  
 
-🚀 Future Improvements
-Add predictive analysis (ML models)
-Real-time data integration
-Advanced KPI tracking
-Dashboard performance optimization
+### 📊 Dashboard (Power BI)  
+- Overall performance  
+- Vehicle-wise analysis  
+- Revenue by payment method  
+- Cancellation breakdown  
+- Ratings analysis  
 
+---
 
-📁 Project Structure
+## 📊 Key Insights  
+
+- 📌 **103K+ Bookings analyzed**  
+- 📌 **~62% successful rides**  
+- 📌 **~28% cancellation rate**  
+- 📌 Cash & UPI dominate payments  
+- 📌 Demand is consistent with slight daily fluctuations  
+
+---
+
+## 🖼 Dashboard Preview  
+
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" width="700"/>
+</p>
+
+---
+
+## 📁 Project Structure  
 📦 Ola-Data-Analysis
- ┣ 📂 data (raw + cleaned datasets)
- ┣ 📂 notebooks (Python cleaning scripts)
- ┣ 📂 sql (analysis queries)
- ┣ 📂 dashboard (Power BI file)
- ┗ 📜 README.md
- 
-🤝 Contribution
-Feel free to fork, improve, or suggest ideas!
+┣ 📂 data
+┣ 📂 python (cleaning scripts)
+┣ 📂 sql (queries)
+┣ 📂 dashboard (Power BI file)
+┗ 📜 README.md
+
+
+---
+
+## 💡 What I Learned  
+
+- Data cleaning is the foundation of analytics  
+- SQL helps uncover real business insights  
+- Visualization turns data into stories  
+- End-to-end workflow builds real industry skills  
+
+---
+
+## 🚀 Future Improvements  
+
+- Predictive analysis (ML)  
+- Real-time dashboard  
+- Advanced DAX measures  
+- Performance optimization  
+
+---
+
+## ⭐ If you like this project  
+Give it a star ⭐ and explore more!
