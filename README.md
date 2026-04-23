@@ -65,7 +65,7 @@ The goal was simple:
 ## 🖼 Dashboard Preview  
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="700"/>
+  <img src="../asset/OLA Dashboard_page-0001.jpg" width="700"/>
 </p>
 
 ---
